@@ -32,7 +32,7 @@ function Form({ onSubmit }) {
         {/* 1. กรอกข้อมูล date โดยใช้ calender */}
         <div className="mb-4">
           <label className="block mb-2" htmlFor="date">
-            1. กรอกข้อมูล date โดยใช้ calender
+            1. date โดยใช้ calender
           </label>
           <input
             type="date"
